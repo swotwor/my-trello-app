@@ -1,0 +1,10 @@
+.header {
+	height: 50px;
+	background: rgb(146, 147, 148);
+}
+
+.header__text {
+	color: #fff;
+	font-family: IndieFlower;
+	text-align: center;
+}
